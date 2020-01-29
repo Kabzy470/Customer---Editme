@@ -86,3 +86,10 @@ public partial class _Default : System.Web.UI.Page
         FnameTxt.Focus();
     }
 }
+
+TO CREATE THE LOGIN PAGE, WATCH THE FOLLOWING VIDEO ON YOUTUBE
+https://www.youtube.com/watch?v=QmT1oec1YBc
+
+
+TO CREATE THE PROFILE PAGE, WATCH THE FOLLOWING VIDEO ON YOUTUBE
+https://www.youtube.com/watch?v=PCr2K4sHq6U
